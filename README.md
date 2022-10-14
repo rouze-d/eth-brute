@@ -11,6 +11,6 @@ pip3 install -r requirements.txt
 python3 eth-brute.py
 ```
 
-<img src="https://github.com/rouze-d/eth-brute/blob/master/screenshot.png"/>
+<img src="https://github.com/rouze-d/eth-brute/blob/main/screenshot.png"/>
 <br>
 <h2> IMPOSSIBLE !! but maybe you're God favorite person.

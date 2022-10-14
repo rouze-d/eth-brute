@@ -10,6 +10,7 @@ pip3 install -r requirements.txt
 ```
 python3 eth-brute.py
 ```
+if ethereum address match, will save on winner.txt file.
 
 <img src="https://github.com/rouze-d/eth-brute/blob/main/screenshot.png"/>
 <br>
